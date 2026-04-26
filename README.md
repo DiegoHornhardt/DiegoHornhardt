@@ -26,8 +26,8 @@ Atualmente explorando o mundo da programação e dos dados.
 ## 📊 GitHub Stats
  
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoHornhardt81&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHornhardt81&layout=compact&theme=default&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoHornhardt&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHornhardt&layout=compact&theme=default&hide_border=true" />
 </p>
 ---
  
@@ -39,5 +39,5 @@ Atualmente explorando o mundo da programação e dos dados.
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiegoHornhardt81&color=grey&style=flat&label=Visitas+no+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=DiegoHornhardt&color=grey&style=flat&label=Visitas+no+perfil" />
 </p>
